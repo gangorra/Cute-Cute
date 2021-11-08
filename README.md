@@ -1,6 +1,6 @@
 # Cute-Cute🐈
 
-Projeto: uma página que carrega fotos aleatórias de gatinhos sempre que clicamos em um botão.
+Projeto: uma página que carrega fotos aleatórias de gatinhos sempre que clicamos no botão.
 
 Nesse projeto foi utilizado o sistema de `API`.
 
